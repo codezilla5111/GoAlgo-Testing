@@ -1,0 +1,10 @@
+{% extends 'base.html'%}
+
+{% block content %}
+  <h1>Search</h1>
+  <form class="" action="/search" method="POST">
+    {{form.csrf_token}}
+    {{form.search_query(class='form-control mb-3')}}
+    {{form.submit(class='btn btn-primary')}}
+  </form>
+{% endblock %}

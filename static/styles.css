@@ -1,0 +1,24 @@
+body{
+  background-image: url(images/background.jpg);
+  height:95vh;
+}
+
+#content{
+  /* background-color: black;
+  color:white; */
+  background-color:white;
+}
+
+#title{
+  padding-top:2vh;
+  padding-bottom:2vh;
+}
+
+#content{
+  padding:10vh 10vw 1vh 10vw;
+}
+
+#footer{
+  padding:0;
+  margin-bottom:0;
+}
