@@ -1,14 +1,11 @@
-cmudict
 gazetteers
 genesis
 gutenberg
 inaugural
-movie_reviews
 names
 shakespeare
 stopwords
 treebank
-twitter_samples
 omw
 omw-1.4
 wordnet
